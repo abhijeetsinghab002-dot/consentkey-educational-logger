@@ -1,0 +1,1 @@
+{"name":"consentkey-educational-logger","version":"1.0.0","description":"Consent-based local keyboard event learning application","main":"server.js","scripts":{"start":"node server.js","test":"node --test"},"keywords":["keyboard","events","education","security"],"license":"MIT"}
